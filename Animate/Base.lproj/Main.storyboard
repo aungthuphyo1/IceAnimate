@@ -48,6 +48,10 @@
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="image4" translatesAutoresizingMaskIntoConstraints="NO" id="BjI-Da-90N">
+                                        <rect key="frame" x="0.0" y="750" width="130" height="68"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
                                 </subviews>
                                 <color key="backgroundColor" red="0.71799482349085009" green="1" blue="0.95984318356579235" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </view>
@@ -65,12 +69,13 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="410" y="88"/>
+            <point key="canvasLocation" x="408.69565217391306" y="87.723214285714278"/>
         </scene>
     </scenes>
     <resources>
         <image name="image1" width="66" height="95"/>
         <image name="image3" width="95" height="98"/>
+        <image name="image4" width="81" height="91"/>
         <image name="image6" width="105" height="98"/>
     </resources>
 </document>
