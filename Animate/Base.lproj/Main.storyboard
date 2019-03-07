@@ -49,7 +49,15 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="image4" translatesAutoresizingMaskIntoConstraints="NO" id="BjI-Da-90N">
-                                        <rect key="frame" x="0.0" y="750" width="130" height="68"/>
+                                        <rect key="frame" x="27" y="716" width="130" height="102"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="image2" translatesAutoresizingMaskIntoConstraints="NO" id="REF-Fl-qcm">
+                                        <rect key="frame" x="165" y="716" width="84" height="102"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="image5" translatesAutoresizingMaskIntoConstraints="NO" id="OZP-x8-uAJ">
+                                        <rect key="frame" x="257" y="716" width="130" height="102.00000000000003"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
                                 </subviews>
@@ -74,8 +82,10 @@
     </scenes>
     <resources>
         <image name="image1" width="66" height="95"/>
+        <image name="image2" width="84" height="102"/>
         <image name="image3" width="95" height="98"/>
         <image name="image4" width="81" height="91"/>
+        <image name="image5" width="87" height="98"/>
         <image name="image6" width="105" height="98"/>
     </resources>
 </document>
